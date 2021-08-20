@@ -1,0 +1,119 @@
+.main h1,
+.main h2,
+.main h3,
+.main p {
+  margin: 0;
+}
+
+.main {
+  margin: 0 1em;
+  /* min-height: calc(100vh - 96px); */
+}
+
+.mainImage {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+  display: block;
+  border-radius: 4px;
+  transition: all 0.3s ease;
+  margin-bottom: 1em;
+}
+
+.main h2 {
+  font-size: 1.25em;
+  font-weight: 700;
+  margin-bottom: 0.125em;
+}
+
+.desc {
+  font-size: 15px;
+  color: #a2a2a2;
+  padding-bottom: 0.5em;
+}
+
+.date {
+  color: #a2a2a2;
+  font-size: 15px;
+}
+
+.post {
+  cursor: pointer;
+  margin-bottom: 2em;
+}
+
+@media only screen and (min-width: 768px) {
+  .main {
+    max-width: 760px;
+    margin: 0 auto;
+  }
+
+  .main h2 {
+    font-size: 2em;
+  }
+
+  .desc {
+    font-size: 1.125em;
+  }
+
+  .date {
+    font-size: 1.25em;
+  }
+
+  .post {
+    padding-bottom: 2em;
+  }
+}
+
+@media only screen and (min-width: 992px) {
+  .main {
+    max-width: 100%;
+    margin: 0 auto;
+  }
+
+  .wrapper {
+    max-width: 990px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+  }
+
+  .post {
+    max-width: 50%;
+    padding: 0 0.5em 1.5em 0.5em;
+  }
+
+  .main h2 {
+    font-size: 1.5em;
+  }
+}
+
+@media only screen and (min-width: 1200px) {
+  .wrapper {
+    max-width: 1136px;
+  }
+
+  .mainImage {
+    height: 14em;
+  }
+
+  .post {
+    max-width: 33.3333%;
+  }
+
+  .main h2 {
+    font-size: 1.5em;
+    padding-bottom: 0.25em;
+  }
+
+  .desc {
+    font-size: 1em;
+  }
+}
+
+.post:hover .mainImage {
+  transform: scale(1.05);
+  transform: translateY(-5px);
+  box-shadow: 0 10px 20px black;
+}

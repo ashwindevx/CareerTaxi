@@ -1,0 +1,237 @@
+{
+    "Interest/Enjoyment":[
+       {
+          "range":[
+             0,
+             30
+          ],
+          "indicators":[
+             "This is the single most important factor in determining whether you are intrinsically motivated or not. And you're score is alarmingly low for this profession",
+             "You are very likely to have an unfulfilling career in this profession",
+             "We seriously recommend that you reconsider your decision of choosing this career option, at least until you develop more interest in it",
+             "In case you don't have interest in this profession because you don't understand it well enough yet, here are a few things you can do",
+             [
+                "Talk to people who currently work in this profession and ask them which part of the profession excites them",
+                "Identify the key tasks and challenges you'll face on a daily basis in this profession",
+                "Figure out ways to test drive the profession by working on these tasks and challenges",
+                "Check if you are having fun working on them"
+             ],
+             "Expert career counselors and the career exploration program can help you navigate through this complex and extremely important decision"
+          ]
+       },
+       {
+          "range":[
+             30,
+             80
+          ],
+          "indicators":[
+             "This is the single most important factor in determining whether you are intrinsically motivated or not. And you're score is not satisfactory and a matter of concern",
+             "You have chances of having an unfulfilling career in this profession",
+             "We recommend that you put your decision of choosing this career option on hold till you develop more interest",
+             "In case you don't have enough interest in this profession because you don't understand it well enough yet, here are a few things you can do",
+             [
+                "Talk to people who currently work in this profession and ask them which part of the profession excites them",
+                "Identify the key tasks and challenges you'll face on a daily basis in this profession",
+                "Figure out ways to test drive the profession by working on these tasks and challenges",
+                "Check if you are having fun working on them"
+             ],
+             "Expert career counselors and the career exploration program can help you navigate through this complex and extremely important decision"
+          ]
+       },
+       {
+          "range":[
+             80,
+             100
+          ],
+          "indicators":[
+             "Congrats on making it to the top few who love what they do",
+             "We've found that on average, students only explore 3 career options with enough seriousness. If you are one of those, we encourage you to explore a few more career options since you are at the very beginning of your professional life",
+             "Do note that choosing a career now doesn't mean you get married to it for life",
+             "Also, there are many people who take up more than one career option. You don't have to limit yourself to just one profession",
+             "If you wish to explore more career options based on your interests and explore a few career options at random to discover new interests, join our career exploration program"
+          ]
+       }
+    ],
+    "Effort/Importance":[
+       {
+          "range":[
+             0,
+             30
+          ],
+          "indicators":[
+             "The acute lack of effort is a matter of concern and indicates that you are not interested and curious enough about this profession",
+             "Try to find out why there was a lack of effort",
+             [
+                "Busy with even more important matters?",
+                "Didn't have access to good resources?",
+                "Or lack of interest and hence excuses and procrastination?"
+             ],
+             "We highly recommend that you put in more effort into researching and exploring the profession before making a decision"
+          ]
+       },
+       {
+          "range":[
+             30,
+             60
+          ],
+          "indicators":[
+             "The effort is not enough and might indicate that you are not interested and curious enough about this profession",
+             "Try to find out why there was a lack of effort",
+             [
+                "Busy with even more important matters?",
+                "Didn't have access to good resources?",
+                "Or lack of interest and hence excuses and procrastination?"
+             ],
+             "We recommend that you put in more effort into researching and exploring the profession before making a decision"
+          ]
+       },
+       {
+          "range":[
+             60,
+             100
+          ],
+          "indicators":[
+             "Great to see that you've put in a lot of effort into exploring the profession",
+             "You are in a good position to judge whether you might enjoy the profession or not",
+             "The high effort might mean that you enjoyed exploring the profession and that you might also enjoy being in this profession"
+          ]
+       }
+    ],
+    "Envision/Relatedness":[
+       {
+          "range":[
+             0,
+             30
+          ],
+          "indicators":[
+             "Envisioning yourself in a profession is not a very strong indicator of whether you'll like a profession or not",
+             "Even if you cannot envision yourself in this profession at the moment, we recommend you base the decision on your 'Interest and Enjoyment' score"
+          ]
+       },
+       {
+          "range":[
+             30,
+             60
+          ],
+          "indicators":[
+             "Envisioning yourself in a profession is not a very strong indicator of whether you'll like a profession or not",
+             "Since you cannot envision yourself in this profession strongly, we recommend you to base the decision on your 'Interest and Enjoyment' score"
+          ]
+       },
+       {
+          "range":[
+             60,
+             100
+          ],
+          "indicators":[
+             "Envisioning yourself in a profession is not a very strong indicator of whether you'll like a profession or not",
+             "Even if you envision yourself in this profession at the moment, we recommend you to also consider your 'Interest and Enjoyment' score when making the decision"
+          ]
+       }
+    ],
+    "Social Influence":[
+       {
+          "range":[
+             0,
+             30
+          ],
+          "indicators":[
+             "A majority of your decision is based on social influence, how others perceive you, how much prestige is associated with the profession, etc.",
+             "Though we all feel compelled to do act in ways that signal good things about us to others, career decisions should be based heavily on your 'Interest and Enjoyment' score instead",
+             "We strongly recommend you to isolate the profession from all the social currency you'd gain from the profession and reconsider if you'd still be interested in the profession and enjoy it just as much"
+          ]
+       },
+       {
+          "range":[
+             30,
+             60
+          ],
+          "indicators":[
+             "Some of your decision is based on social influence, how others perceive you, how much prestige is associated with the profession, etc.",
+             "Though we all feel compelled to do act in ways that signal good things about us to others, career decisions should be based heavily on your 'Interest and Enjoyment' score instead",
+             "We recommend you to isolate the profession from all the social currency you'd gain from the profession and reconsider if you'd still be interested in the profession and enjoy it just as much"
+          ]
+       },
+       {
+          "range":[
+             60,
+             100
+          ],
+          "indicators":[
+             "A majority of your decision is devoid of social influence, how others perceive you, how much prestige is associated with the profession, etc.",
+             "This might indicate that your career decisions are based on your 'Interest and Enjoyment' score instead. If that is the case, we are happy to let you know that you moving in the right direction."
+          ]
+       }
+    ],
+    "Perceived Competence":[
+       {
+          "range":[
+             0,
+             30
+          ],
+          "indicators":[
+             "Perceived Competence in this profession is not a very strong indicator of whether you'll like it or not",
+             "Though your Perceived Competence is low at the moment, don't get discouraged. With proper training and environment, your level of competence can improve",
+             "We'd recommend you take baby steps and learn at your own pace. Being a beginner is not always easy as your mind is developing new neural pathways. If you try to deal with advanced challenges right in the very beginning, you might feel that you are not suited for this profession even when the reality may be very different"
+          ]
+       },
+       {
+          "range":[
+             30,
+             60
+          ],
+          "indicators":[
+             "Perceived Competence in this profession is not a very strong indicator of whether you'll like it or not",
+             "Though your Perceived Competence is not high enough at the moment, don't get discouraged. With proper training and environment, your level of competence can improve",
+             "We'd recommend you take baby steps and learn at your own pace. Being a beginner is not always easy as your mind is developing new neural pathways. If you try to deal with advanced challenges right in the very beginning, you might feel that you are not suited for this profession even when the reality may be very different"
+          ]
+       },
+       {
+          "range":[
+             60,
+             100
+          ],
+          "indicators":[
+             "Perceived Competence in this profession is not a very strong indicator of whether you'll like it or not",
+             "Though your Perceived Competence is high, it might not necessarily mean that you like the profession or will always like it",
+             "We'd recommend you check whether you find it interesting, fun, and surges your curiosity and creativity."
+          ]
+       }
+    ],
+    "Money Driven":[
+       {
+          "range":[
+             0,
+             30
+          ],
+          "indicators":[
+             "Though you've scored low on this parameter, which means you have chosen this career because you want to earn more money and live a luxurious life, it doesn't necessarily mean there's anything wrong with it",
+             "We all feel compelled to choose a career that enables us to make money, career decisions should primarily be based on your 'Interest and Enjoyment' score instead. Money-making potential can become a secondary factor in choosing a career but not the primary one",
+             "We strongly recommend you to isolate the profession from all the money you'd gain from the profession and reconsider if you'd still be interested in the profession and enjoy it just as much",
+             "In case you are going through a financial crisis and must get a job that pays regardless of whether you like the profession on not, it's totally fine to do so. But plan in such a way that in the long run, you get to be in a profession where you are passionate about your work. After all, the purpose of money is to gain the freedom to do what you enjoy doing"
+          ]
+       },
+       {
+          "range":[
+             30,
+             60
+          ],
+          "indicators":[
+             "Though you've not scored well enough on this parameter, which means you have chosen this career because you want to earn more money and live a luxurious life, it doesn't necessarily mean there's anything wrong with it",
+             "We all feel compelled to choose a career that enables us to make money, career decisions should primarily be based on your 'Interest and Enjoyment' score instead. Money-making potential can become a secondary factor in choosing a career but not the primary one",
+             "We recommend you to isolate the profession from all the money you'd gain from the profession and reconsider if you'd still be interested in the profession and enjoy it just as much",
+             "In case you are going through a financial crisis and must get a job that pays regardless of whether you like the profession on not, it's totally fine to do so. But plan in such a way that in the long run, you get to be in a profession where you are passionate about your work. After all, the purpose of money is to gain the freedom to do what you enjoy doing"
+          ]
+       },
+       {
+          "range":[
+             60,
+             100
+          ],
+          "indicators":[
+             "A majority of your decision is devoid of money as the driving factor",
+             "This might indicate that your career decisions are based on your 'Interest and Enjoyment' score instead. If that is the case, we are happy to let you know that you moving in the right direction."
+          ]
+       }
+    ]
+ }
